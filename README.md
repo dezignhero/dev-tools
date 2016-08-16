@@ -1,3 +1,7 @@
+# Development Tools
+
+Useful tips and tools to set up your development environment.
+
 ##Hidden Features in Chrome Dev Tools
 
 Chrome DevTool features - http://blog.teamtreehouse.com/5-great-hidden-features-in-the-chrome-devtools
@@ -10,6 +14,7 @@ Chrome DevTool features - http://blog.teamtreehouse.com/5-great-hidden-features-
 | Postman | Tool to test REST endpoints | [Link](http://www.getpostman.com/) |
 | Wappalyzer | Analyzes websites to determine technologies used. | [Link](https://wappalyzer.com/download) |
 | JSON View | Prettifies and formats JSON responses to be collapsible. | [Link](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) |
+
 
 ##ECMAScript 6
 
